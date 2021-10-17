@@ -1,0 +1,7 @@
+newmtl brickwall
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ns 32.0
+map_Kd assets/textures/brickwall.jpg
+map_bump assets/textures/brickwall_normal.jpg

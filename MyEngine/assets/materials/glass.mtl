@@ -1,0 +1,4 @@
+newmtl glass
+Ka 1.0 1.0 1.0
+Tr 0.0
+map_Kd assets/window.png
